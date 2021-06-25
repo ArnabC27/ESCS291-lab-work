@@ -12,3 +12,4 @@ Programs done in lab during 2nd semester.
 9.  [Lab 9](https://github.com/ArnabC27/ESCS291-lab-work/tree/main/lab-9-2-jun-2021) - 2nd June 2021
 10. [Lab 10](https://github.com/ArnabC27/ESCS291-lab-work/tree/main/lab-10-9-jun-2021) - 9th June 2021
 11. [Lab 11](https://github.com/ArnabC27/ESCS291-lab-work/tree/main/lab-11-16-jun-2021) - 16th June 2021
+12. [Lab 12](https://github.com/ArnabC27/ESCS291-lab-work/tree/main/lab-12-23-jun-2021) - 23rd June 2021
